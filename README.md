@@ -34,9 +34,12 @@ Scientific calculator with parser logic, Flask UI, and desktop integration.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a16nna&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
 ---
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/anna-mariya-1324aa31a/)
+
 [GitHub](https://github.com/a16nna)
+
 [Email](mailto:annamariya200616@gmail.com)
