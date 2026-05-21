@@ -30,12 +30,12 @@ Scientific calculator with parser logic, Flask UI, and desktop integration.
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=a16nna&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=a16nna&theme=tokyonight&hide_border=true&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=a16nna&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a16nna&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
 ---
-
 ## Connect With Me
 
 [LinkedIn]([YOUR_LINKEDIN](https://www.linkedin.com/in/anna-mariya-1324aa31a/))
